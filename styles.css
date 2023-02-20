@@ -83,7 +83,7 @@
     justify-content: center;
     width: 125px;
     text-decoration: none;
-    font-family: cursive ;
+    /* font-family: cursive ; */
     font-weight: bold;
     height: 100%;
     transition: all 0.3s ease;
