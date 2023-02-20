@@ -96,7 +96,7 @@
 
 .navbar__btn{
     display: flex;
-    font-family: cursive;
+    /* font-family: cursive; */
     font-weight: bold; 
     justify-content: center;
     align-items: center;
